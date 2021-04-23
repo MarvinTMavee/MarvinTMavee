@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaveeYT
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#, C++
--🎂 I'm currently working on a game called FarmFighter
+- 🎂 I'm currently working on a game called FarmFighter
 - 📫 Discord: Mavee#1874
