@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Python
 
-- 🎂 <a href="maveeyt.tk">My Website</a>
+- 🎂 <a href="https://maveeyt.de/">My Website</a>
 
 <h3 align="left">Find me on social network:</h3>
 <p align="left">
