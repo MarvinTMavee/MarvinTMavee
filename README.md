@@ -2,7 +2,6 @@
 
 - 🎮 I’m currently working on a game called <a href="https://github.com/MaveeYT/PongExtendedGame">PongExtended</a>
 
-- 🌱 I’m currently learning Python
 
 - 🎂 <a href="https://maveeyt.de/">My Website</a>
 
