@@ -3,7 +3,7 @@
 - 🎮 I’m currently working on a game called <a href="https://github.com/MaveeYT/PongExtendedGame">PongExtended</a>
 
 
-- 🎂 <a href="https://maveeyt.de/">My Website</a>
+- 📫 Contact email: contact@maveeyt.de
 
 <h3 align="left">Find me on social network:</h3>
 <p align="left">
