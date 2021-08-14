@@ -1,6 +1,6 @@
 <h1>MaveeYT</h1>
 
-- 🎮 I’m currently working on a game called <a href="https://github.com/MaveeYT/PongExtendedGame">PongExtended</a>
+- 🎮 https://maveeyt.itch.io/
 
 
 - 📫 Contact email: contact@maveeyt.de
