@@ -2,6 +2,8 @@
 
 - 🌴 Hobby pilot
 
+- 📷 Photoshop enthusiast
+
 - 🎮 https://maveeyt.itch.io/
 
 
