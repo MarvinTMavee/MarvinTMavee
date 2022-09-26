@@ -4,10 +4,10 @@
 
 - 📷 Photoshop enthusiast
 
-- 🎮 https://maveeyt.itch.io/
+- 🎮 https://marveee.itch.io
 
 
-- 📫 Contact email: contact@maveeyt.de
+- 📫 Contact email: contact@maevedev.com
 
 <h3 align="left">Find me on social network:</h3>
 <p align="left">
