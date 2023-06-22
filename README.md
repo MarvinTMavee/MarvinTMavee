@@ -6,10 +6,9 @@
 
 - 📷 Photoshop enthusiast
 
-- 🎮 https://marveee.itch.io
+- 🏬 [Maeve Development Group](https://maevedev.com/)
 
-
-- 📫 Contact email: contact@maevedev.com
+- 📫 Contact email: support[at]maevedev.com
 
 <h3 align="left">Find me on social network:</h3>
 <p align="left">
