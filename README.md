@@ -4,7 +4,7 @@
 
 - 🌴 Hobby pilot
 
-- 📷 Photoshop enthusiast
+- 🏫 Currently learning C++
 
 - 🏬 [Maeve Development Group](https://maevedev.com/)
 
