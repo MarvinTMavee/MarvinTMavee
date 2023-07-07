@@ -8,7 +8,7 @@
 
 - 🏬 [Maeve Development Group](https://maevedev.com/)
 
-- 📫 Contact email: support[at]maevedev.com
+- 📫 Contact email: marvin[at]maevedev.com
 
 <h3 align="left">Find me on social network:</h3>
 <p align="left">
