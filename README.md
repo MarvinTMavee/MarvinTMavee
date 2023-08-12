@@ -4,8 +4,6 @@
 
 - 🌴 Hobby pilot
 
-- 🏫 Currently learning C++
-
 - 🏬 [Maeve Development Group](https://maevedev.com/)
 
 - 📫 Contact email: marvin[at]maevedev.com
