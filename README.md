@@ -4,7 +4,7 @@
 
 - 🌴 Hobby pilot
   
-- 📫 Contact email: marvin[at]maevedev.com
+- 📫 Contact via discord: @mevg
 
 <h3 align="left">Find me on social network:</h3>
 <p align="left">
